@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋:我是Chen YL
 
 <!--
 **chen688L/chen688L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning something cool!
+- 💬 Ask me about GitHub
+
+
+## 技术栈
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,scss,vue,nuxt,typescript,nodejs,express,webpack,vite" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,python,postman,mysql,redis,eclipse,figma,gitlab" />
+  </a>
+</p>
