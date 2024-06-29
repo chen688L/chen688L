@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 - 🌱 I’m currently learning something cool!
 - 💬 Ask me about GitHub
-
+一个会全栈的前端开发工程师
+梦想成为一名顶尖架构师！
 
 ## 技术栈
 <p align="left">
