@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 - 一个会全栈的前端开发工程师
 - 梦想成为一名顶尖架构师！
+- 这是我的gitee账号：https://gitee.com/Cchen_yl
 
 ## 技术栈
 <p align="left">
